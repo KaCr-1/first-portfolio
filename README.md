@@ -1,4 +1,4 @@
-# first-portfolio
+# First-Portfolio
 This is my first ever portfolio webpage I have created.
 
 ## Project Description
