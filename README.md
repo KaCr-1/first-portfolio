@@ -1,4 +1,4 @@
-# First-Portfolio
+$\color{RedViolet}{# First-Portfolio}$
 $\color{Lavender}{This\ is\ my\ first\ ever\ portfolio\ webpage\ I\ have\ created.}$
 
 ## Project Description
